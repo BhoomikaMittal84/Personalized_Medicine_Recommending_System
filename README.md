@@ -1,4 +1,4 @@
-# CodeClauseInternship_Personalized_Medicine_Recommending_System
+Personalized_Medicine_Recommending_System
 
 code performs the following tasks to create a content-based medicine recommendation system:
 
